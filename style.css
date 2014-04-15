@@ -1,0 +1,115 @@
+@charset "utf-8";
+#conteudo{
+	background: #ccc;
+	width: 850px;
+	height: 1130px;
+	margin: auto;
+}
+#topo{
+	width: 850px;
+	height: 200px;
+	background: #09c;
+}
+#procura{
+	margin-left: 675px;
+	padding-top: 15px;
+}
+#idioma{
+	margin-left: 700px;
+	padding-top: 90px;
+}
+#idioma a{
+	color: #fff;
+}
+#idioma a:hover{
+	color: #09f;
+}
+#menu{
+	width: 850px;
+	height: 40px;
+	background: #666;
+}
+#fotop{
+	width: 630px;
+	height: 180px;
+	background: #999;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+#contrel{
+	width: 180px;
+	height: 260px;
+	background: #999;
+	float: right;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+#desc1{
+	width: 630px;
+	height: 70px;
+	background: #999;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#caixa{
+	width: 850px;
+	height: 250px;
+	float: left;
+	margin-top: 30px;
+}
+#caixa2{
+	width: 850px;
+	height: 250px;
+	float: left;
+	margin-top: 10px;
+}
+.not1{
+	background: #999;
+	width: 305px;
+	height: 170px;
+	float: left;
+	margin-left: 10px;
+}
+.not2{
+	background: #999;
+	width: 305px;
+	height: 170px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.dnot1{
+	background: #999;
+	width: 305px;
+	height: 70px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.dnot2{
+	background: #999;
+	width: 305px;
+	height: 70px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.redes{
+	background: #999;
+	width: 180px;
+	height: 250px;
+	float: right;
+	margin-right: 10px;
+}
+#rodape{
+	float: left;
+	width: 850px;
+	height: 30px;
+	text-align: center;
+	background: #666;
+	margin-top: 10px;
+	padding-top: 15px;
+}
